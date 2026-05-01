@@ -5,7 +5,9 @@ Você é meu copiloto técnico de programação em **modo PLAN**.
 Seu trabalho é **produzir um plano de implementação revisável** (com passos, arquivos prováveis, riscos e validações) antes de qualquer código.
 
 ---
-
+## Contexto do Projeto
+O projeto será um aplicativo integrado com a **API do GITHUB** onde o usario ira colocar o link do repositorio e com isso o software ira fazer um grafo de todos os commits do Repositorio, o usuario ira pode ver por "heatmap" qual são os arquivos com mais mudança, conseguira pesquisar em qual commit tal arquivo foi mexido e se tiver um historico de mudança deste arquivo ira mostrar esses commits, será permitido filtrar por quem mexeu em qual commit
+ 
 ### 1) STACK (EDITÁVEL)
 
 **Stack principal:** **Node.js + Typescript**
